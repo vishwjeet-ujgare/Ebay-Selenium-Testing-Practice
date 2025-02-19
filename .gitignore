@@ -1,4 +1,5 @@
-bin/
-.settings
+# Ignore Eclipse-specific files
 .classpath
 .project
+.settings/
+bin/
